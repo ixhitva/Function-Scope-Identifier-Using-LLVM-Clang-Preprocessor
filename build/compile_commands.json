@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/arun/FunctionScopeIdentifier/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -I/home/arun/FunctionScopeIdentifier/include -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/FunctionScopeIdentifier.dir/src/main.cpp.o -c /home/arun/FunctionScopeIdentifier/src/main.cpp",
+  "file": "/home/arun/FunctionScopeIdentifier/src/main.cpp",
+  "output": "CMakeFiles/FunctionScopeIdentifier.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/arun/FunctionScopeIdentifier/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -I/home/arun/FunctionScopeIdentifier/include -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/FunctionScopeIdentifier.dir/src/FunctionVisitor.cpp.o -c /home/arun/FunctionScopeIdentifier/src/FunctionVisitor.cpp",
+  "file": "/home/arun/FunctionScopeIdentifier/src/FunctionVisitor.cpp",
+  "output": "CMakeFiles/FunctionScopeIdentifier.dir/src/FunctionVisitor.cpp.o"
+},
+{
+  "directory": "/home/arun/FunctionScopeIdentifier/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -I/home/arun/FunctionScopeIdentifier/include -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/FunctionScopeIdentifier.dir/src/FunctionScopeConsumer.cpp.o -c /home/arun/FunctionScopeIdentifier/src/FunctionScopeConsumer.cpp",
+  "file": "/home/arun/FunctionScopeIdentifier/src/FunctionScopeConsumer.cpp",
+  "output": "CMakeFiles/FunctionScopeIdentifier.dir/src/FunctionScopeConsumer.cpp.o"
+},
+{
+  "directory": "/home/arun/FunctionScopeIdentifier/build",
+  "command": "/usr/bin/c++  -I/usr/lib/llvm-18/include -I/home/arun/FunctionScopeIdentifier/include -std=gnu++17   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -o CMakeFiles/FunctionScopeIdentifier.dir/src/FunctionScopeAction.cpp.o -c /home/arun/FunctionScopeIdentifier/src/FunctionScopeAction.cpp",
+  "file": "/home/arun/FunctionScopeIdentifier/src/FunctionScopeAction.cpp",
+  "output": "CMakeFiles/FunctionScopeIdentifier.dir/src/FunctionScopeAction.cpp.o"
+}
+]
