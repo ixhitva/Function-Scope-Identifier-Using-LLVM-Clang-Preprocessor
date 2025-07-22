@@ -1,6 +1,15 @@
 # Function-Scope-Identifier-Using-LLVM-Clang-Preprocessor
 The project analyzes C/C++ source files and identifies which functions are defined within or overlap with user-specified line ranges. It is built using Clang's LibTooling, which allows deep analysis of C/C++ code.
 
+Commands:
+<img width="712" height="17" alt="cmd1" src="https://github.com/user-attachments/assets/6e305959-139c-4886-92a2-f417caa64a82" />
+
+<img width="1207" height="48" alt="cmd2" src="https://github.com/user-attachments/assets/1a610e6e-ce08-44b5-acdd-732dbb9dd340" />
+
+<img width="1205" height="43" alt="cmd3" src="https://github.com/user-attachments/assets/0404c65d-8300-4393-ac69-3ee1b80ca0e2" />
+
+
+
 1. How It Works (Detailed Flow)
 
 A. Command-Line Interface
